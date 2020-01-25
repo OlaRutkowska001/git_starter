@@ -1,2 +1,2 @@
 # git_starter
-This is a repository train git connands workflows
+This READEME file is created for testing purposes.
